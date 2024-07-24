@@ -1,19 +1,19 @@
 [[doing]]
-title = "Mobile Apps"
-icon = "./config/assets/icons/mobile.svg"
-text = "Professional development of applications for iOS and Android."
+title = "Web Development"
+icon = "./config/assets/icons/laptop-code.svg"
+text = "High-quality development of web applications using technologies like Flask, React.js, and AWS."
+
+[[doing]]
+title = "Data Science"
+icon = "./config/assets/icons/data-science.svg"
+text = "Implementing machine learning projects and data analysis tasks to optimize systems and enhance decision-making."
 
 [[doing]]
 title = "Scripting"
 icon = "./config/assets/icons/code.svg"
-text = "Automation and task scripting using Python to enhance efficiency and productivity."
+text = "Automation and task scripting using Python to enhance efficiency and productivity, including web scraping with Beautiful Soup."
 
 [[doing]]
-title = "UI/UX Designing"
-icon = "./config/assets/icons/compass.svg"
-text = "Intuitive and visually appealing user interfaces and user experiences."
-
-[[doing]]
-title = "Web Development"
-icon = "./config/assets/icons/laptop-code.svg"
-text = "High-quality development of sites at the professional level."
+title = "Technical Leadership"
+icon = "./config/assets/icons/leadership.svg"
+text = "Providing leadership and mentoring in technical communities, organizing coding events, and collaborating with various stakeholders."
