@@ -1,5 +1,6 @@
 name = "Om Ambadas Bade"
-rol = "B.Tech in Computer Engineering (Honors in data science)"
+rol = """B.Tech in Computer Engineering 
+(Honors in data science)"""
 email = "ombade364@gmail.com"
 phone = "9022157947"
 birthday = "NOV 21, 2003"
