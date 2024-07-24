@@ -1,83 +1,77 @@
 [[project]]
-title = "Flutter Cinemapedia App"
-category = "Mobile development"
-image = "https://i.imgur.com/ANDVQ4o.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Crop Yield Prediction"
+category = "Machine Learning"
+image = "https://github.com/ombade/Crop_Yield/blob/main/CropYield-Prediction.png?raw=true"
+url = "https://github.com/ombade/Crop_Yield"
 
 [[project]]
-title = "Flutter Coffee Shop App"
-category = "Mobile development"
-image = "https://imgur.com/2nNXhDN.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+title = "Decision Tree Classifier"
+category = "Machine Learning"
+image = "https://github.com/ombade/decision-tree-classifier/blob/main/tree.png?raw=true"
+url = "https://github.com/ombade/decision-tree-classifier"
 
 [[project]]
-title = "Flutter Todo App"
-category = "Mobile development"
-image = "https://imgur.com/7110Lj1.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
-
-[[project]]
-title = "Flutter Travel News App"
-category = "Mobile development"
-image = "https://imgur.com/t5T5Ixa.png"
-url = "https://github.com/ivansaul/flutter_travel_news_app#screenshots"
-
-[[project]]
-title = "Codigo Facilito Downloader"
+title = "Notepad Application"
 category = "Python Scripting"
-image = "https://imgur.com/kyHrBGk.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
+image = "https://github.com/ombade/notepad-using-python/blob/main/notepad.png?raw=true"
+url = "https://github.com/ombade/notepad-using-python"
 
 [[project]]
-title = "Finance"
-category = "Web development"
-image = "./config/assets/projects/project-1.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Celebal Summer Internship 2k24"
+category = "Machine Learning"
+image = "https://github.com/ombade/Celebal_Summer_Internship_2k24/blob/main/internship.png?raw=true"
+url = "https://github.com/ombade/Celebal_Summer_Internship_2k24"
 
 [[project]]
-title = "Orizon"
-category = "Web development"
-image = "./config/assets/projects/project-2.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "Flipkart Web Scraping"
+category = "Web Scraping"
+image = "https://github.com/ombade/flipkart-web-scraping/blob/main/flipkart_scraping.png?raw=true"
+url = "https://github.com/ombade/flipkart-web-scraping"
 
 [[project]]
-title = "Fundo"
-category = "Web design"
-image = "./config/assets/projects/project-3.jpg"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Geolocation App"
+category = "Web Development"
+image = "https://github.com/ombade/geolocation-app/blob/main/geolocation.png?raw=true"
+url = "https://github.com/ombade/geolocation-app"
 
 [[project]]
-title = "Brawlhalla"
-category = "Applications"
-image = "./config/assets/projects/project-4.png"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+title = "Student Data Management System"
+category = "Web Development"
+image = "https://github.com/ombade/student-data-management-system/blob/main/sdms.png?raw=true"
+url = "https://github.com/ombade/student-data-management-system"
 
 [[project]]
-title = "DSM."
-category = "Web design"
-image = "./config/assets/projects/project-5.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "Airline Reservation System"
+category = "Java Applications"
+image = "https://github.com/ombade/airline-reservation-system/blob/main/airline-reservation.png?raw=true"
+url = "https://github.com/ombade/airline-reservation-system"
 
 [[project]]
-title = "MetaSpark"
-category = "Web design"
-image = "./config/assets/projects/project-6.png"
-url = "https://github.com/ivansaul/flutter_todo_app#screenshots"
+title = "Movie Recommendation System"
+category = "Machine Learning"
+image = "https://github.com/ombade/movie-recommendation-system/blob/main/movie-recommendation.png?raw=true"
+url = "https://github.com/ombade/movie-recommendation-system"
 
 [[project]]
-title = "Summary"
-category = "Web development"
-image = "./config/assets/projects/project-7.png"
-url = "https://github.com/ivansaul/codigo_facilito_downloader"
+title = "Survey Analysis"
+category = "Data Analysis"
+image = "https://github.com/ombade/survey-analysis/blob/main/survey-analysis.png?raw=true"
+url = "https://github.com/ombade/survey-analysis"
 
 [[project]]
-title = "Task Manager"
-category = "Applications"
-image = "./config/assets/projects/project-8.jpg"
-url = "https://github.com/ivansaul/flutter_coffee_shop_app#screenshots"
+title = "Todo List Web App"
+category = "Web Development"
+image = "https://github.com/ombade/todo-list-web-app/blob/main/todo-list.png?raw=true"
+url = "https://github.com/ombade/todo-list-web-app"
 
 [[project]]
-title = "Arrival"
-category = "Web development"
-image = "./config/assets/projects/project-9.png"
-url = "https://github.com/ivansaul/flutter_cinemapedia_app#screenshots"
+title = "Library Management System"
+category = "Java Applications"
+image = "https://github.com/ombade/library-management-system/blob/main/library-management.png?raw=true"
+url = "https://github.com/ombade/library-management-system"
+
+[[project]]
+title = "Chat Application"
+category = "Web Development"
+image = "https://github.com/ombade/chat-application/blob/main/chat-app.png?raw=true"
+url = "https://github.com/ombade/chat-application"
