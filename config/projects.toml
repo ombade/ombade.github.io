@@ -31,7 +31,7 @@ url = "https://github.com/ombade/flipkart-web-scraping"
 [[project]]
 title = "Geolocation App"
 category = "Web Development"
-image = "https://github.com/ombade/geolocation-app/blob/main/geolocation.png?raw=true"
+image = "src/images/GeoLocation"
 url = "https://github.com/ombade/geolocation-app"
 
 [[project]]
