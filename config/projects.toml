@@ -7,7 +7,7 @@ url = "https://github.com/ombade/Crop_Yield"
 [[project]]
 title = "Decision Tree Classifier"
 category = "Machine Learning"
-image = "https://github.com/ombade/decision-tree-classifier/blob/main/tree.png?raw=true"
+image = "src/images/Desion Tree"
 url = "https://github.com/ombade/decision-tree-classifier"
 
 [[project]]
@@ -25,8 +25,8 @@ url = "https://github.com/ombade/Celebal_Summer_Internship_2k24"
 [[project]]
 title = "Flipkart Web Scraping"
 category = "Web Scraping"
-image = "https://github.com/ombade/flipkart-web-scraping/blob/main/flipkart_scraping.png?raw=true"
-url = "https://github.com/ombade/flipkart-web-scraping"
+image = "src/images/WebScraping"
+url = "https://github.com/ombade/flickart_review_scraping"
 
 [[project]]
 title = "Geolocation App"
@@ -34,29 +34,13 @@ category = "Web Development"
 image = "src/images/GeoLocation"
 url = "https://github.com/ombade/geolocation-app"
 
+
 [[project]]
-title = "Student Data Management System"
+title = "Financial Calcutor"
 category = "Web Development"
-image = "https://github.com/ombade/student-data-management-system/blob/main/sdms.png?raw=true"
-url = "https://github.com/ombade/student-data-management-system"
+image = "src/images/fincal"
+url = "https://github.com/ombade/Finance_cal?tab=readme-ov-file"
 
-[[project]]
-title = "Airline Reservation System"
-category = "Java Applications"
-image = "https://github.com/ombade/airline-reservation-system/blob/main/airline-reservation.png?raw=true"
-url = "https://github.com/ombade/airline-reservation-system"
-
-[[project]]
-title = "Movie Recommendation System"
-category = "Machine Learning"
-image = "https://github.com/ombade/movie-recommendation-system/blob/main/movie-recommendation.png?raw=true"
-url = "https://github.com/ombade/movie-recommendation-system"
-
-[[project]]
-title = "Survey Analysis"
-category = "Data Analysis"
-image = "https://github.com/ombade/survey-analysis/blob/main/survey-analysis.png?raw=true"
-url = "https://github.com/ombade/survey-analysis"
 
 [[project]]
 title = "Todo List Web App"
@@ -64,14 +48,5 @@ category = "Web Development"
 image = "https://github.com/ombade/todo-list-web-app/blob/main/todo-list.png?raw=true"
 url = "https://github.com/ombade/todo-list-web-app"
 
-[[project]]
-title = "Library Management System"
-category = "Java Applications"
-image = "https://github.com/ombade/library-management-system/blob/main/library-management.png?raw=true"
-url = "https://github.com/ombade/library-management-system"
 
-[[project]]
-title = "Chat Application"
-category = "Web Development"
-image = "https://github.com/ombade/chat-application/blob/main/chat-app.png?raw=true"
-url = "https://github.com/ombade/chat-application"
+
