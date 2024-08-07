@@ -33,7 +33,17 @@ title = "Geolocation App"
 category = "Web Development"
 image = "src/images/GeoLocation"
 url = "https://github.com/ombade/geolocation-app"
+[[project]]
+title = "Todo List Web App"
+category = "Web Development"
+image = "src/images/TODO"
+url = "https://github.com/ombade/ToDO_list"
 
+[[project]]
+title = "CGPA Calculator"
+category = "Web Development"
+image = "src/images/CGPA"
+url = "https://github.com/ombade/CGPA_calculator_.github.io"
 
 [[project]]
 title = "Financial Calcutor"
@@ -41,12 +51,18 @@ category = "Web Development"
 image = "src/images/fincal"
 url = "https://github.com/ombade/Finance_cal?tab=readme-ov-file"
 
-
 [[project]]
-title = "Todo List Web App"
-category = "Web Development"
-image = "https://github.com/ombade/todo-list-web-app/blob/main/todo-list.png?raw=true"
-url = "https://github.com/ombade/todo-list-web-app"
+title = "Financial Calcutor"
+category = "Android"
+image = "src/images/fincal"
+url = "https://github.com/ombade/Finance_cal?tab=readme-ov-file"
+[[project]]
+title = "Unit COnverter"
+category = "Android "
+image = "src/images/fincal"
+url = "https://github.com/ombade/unit_converter?tab=readme-ov-file"
+
+
 
 
 
